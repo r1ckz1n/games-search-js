@@ -1,0 +1,417 @@
+[
+  {
+    "nome": "The Witcher 3: Wild Hunt",
+    "descricao": "Como o caçador de monstros Geralt de Rívia, explore um vasto mundo aberto, repleto de cidades mercantis, ilhas piratas, passagens perigosas nas montanhas e cavernas esquecidas.",
+    "ano": 2015,
+    "link": "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt",
+    "tags": [
+      "RPG",
+      "Ação",
+      "Mundo Aberto"
+    ]
+  },
+  {
+    "nome": "Red Dead Redemption 2",
+    "descricao": "Após um assalto dar errado na cidade de Blackwater, Arthur Morgan e a gangue Van der Linde são forçados a fugir. Com agentes federais e os melhores caçadores de recompensas em seu encalço.",
+    "ano": 2018,
+    "link": "https://en-wikipedia-org.translate.goog/wiki/Red_Dead_Redemption_2?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc",
+    "tags": [
+      "Ação",
+      "Aventura",
+      "Mundo Aberto"
+    ]
+  },
+  {
+    "nome": "The Last of Us Part I",
+    "descricao": "Em uma civilização devastada, onde infectados e sobreviventes veteranos estão à solta, Joel é contratado para contrabandear Ellie, de 14 anos, para fora de uma zona de quarentena militar.",
+    "ano": 2013,
+    "link": "https://pt.wikipedia.org/wiki/The_Last_of_Us_Part_I",
+    "tags": [
+      "Ação",
+      "Aventura",
+      "Sobrevivência",
+      "Terror"
+    ]
+  },
+  {
+    "nome": "God of War",
+    "descricao": "Vivendo como um homem fora da sombra dos deuses, Kratos deve se adaptar a terras desconhecidas, ameaças inesperadas e uma segunda chance de ser pai.",
+    "ano": 2008,
+    "link": "https://pt.wikipedia.org/wiki/God_of_War",
+    "tags": [
+      "Ação",
+      "Aventura",
+      "Hack and Slash"
+    ]
+  },
+  {
+    "nome": "Elden Ring",
+    "descricao": "Nas Terras Intermédias governadas pela Rainha Marika, a Eterna, o Anel de Elden, a fonte do Erdtree, foi quebrado. Levante-se, Maculado, e seja guiado pela graça para brandir o poder do Anel.",
+    "ano": 2022,
+    "link": "https://pt.wikipedia.org/wiki/Elden_Ring",
+    "tags": [
+      "RPG",
+      "Ação",
+      "Mundo Aberto",
+      "Souls-like"
+    ]
+  },
+  {
+    "nome": "Minecraft",
+    "descricao": "Um jogo sobre quebrar e colocar blocos. No início, as pessoas construíam estruturas para se proteger contra monstros noturnos, mas com o tempo os jogadores trabalharam juntos para criar coisas maravilhosas.",
+    "ano": 2011,
+    "link": "https://pt.wikipedia.org/wiki/Minecraft",
+    "tags": [
+      "Sandbox",
+      "Sobrevivência",
+      "Construção"
+    ]
+  },
+  {
+    "nome": "Grand Theft Auto V",
+    "descricao": "Um jovem malandro de rua, um ladrão de bancos aposentado e um psicopata aterrorizante se envolvem com alguns dos elementos mais assustadores e desequilibrados do submundo do crime.",
+    "ano": 2013,
+    "link": "https://pt.wikipedia.org/wiki/Grand_Theft_Auto_V",
+    "tags": [
+      "Ação",
+      "Aventura",
+      "Mundo Aberto"
+    ]
+  },
+  {
+    "nome": "Baldur's Gate 3",
+    "descricao": "Reúna seu grupo e retorne aos Reinos Esquecidos em um conto de companheirismo e traição, sacrifício e sobrevivência, e a atração do poder absoluto.",
+    "ano": 2023,
+    "link": "https://pt.wikipedia.org/wiki/Baldur%27s_Gate_III",
+    "tags": [
+      "RPG",
+      "Estratégia",
+      "Baseado em Turnos"
+    ]
+  },
+  {
+    "nome": "Cyberpunk 2077",
+    "descricao": "Uma história de ação e aventura de mundo aberto ambientada em Night City, uma megalópole obcecada por poder, glamour e modificação corporal.",
+    "ano": 2010,
+    "link": "https://pt.wikipedia.org/wiki/Cyberpunk_2077",
+    "tags": [
+      "RPG",
+      "Ação",
+      "Mundo Aberto",
+      "Cyberpunk"
+    ]
+  },
+  {
+    "nome": "The Legend of Zelda: Breath of the Wild",
+    "descricao": "Depois de um sono de 100 anos, Link acorda para um mundo que ele não reconhece. Agora, ele deve explorar a vasta e perigosa terra de Hyrule para recuperar suas memórias antes que o reino seja perdido para sempre.",
+    "ano": 2017,
+    "link": "https://pt.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild",
+    "tags": [
+      "Ação",
+      "Aventura",
+      "Mundo Aberto",
+      "RPG"
+    ]
+  },
+  {
+    "nome": "Super Mario 64",
+    "descricao": "Um jogo pioneiro que definiu o padrão para jogos de plataforma 3D, introduzindo câmeras livres e vastos mundos exploráveis.",
+    "data_criacao": "1996",
+    "link": "https://www.nintendo.com/games/detail/super-mario-64-switch/",
+    "tags": [
+      "Plataforma 3D",
+      "Aventura",
+      "Pioneiro",
+      "N64"
+    ]
+  },
+  {
+    "nome": "Doom (1993)",
+    "descricao": "Um dos jogos mais influentes do gênero tiro em primeira pessoa (FPS), popularizando o multiplayer deathmatch e gráficos 3D acelerados.",
+    "data_criacao": "1993",
+    "link": "https://doom.com/en-us/doom-1993",
+    "tags": [
+      "FPS",
+      "Tiro",
+      "Gore",
+      "Clássico de PC"
+    ]
+  },
+  {
+    "nome": "Final Fantasy VII",
+    "descricao": "Um RPG japonês seminal que apresentou gráficos 3D inovadores e uma narrativa complexa e emocionalmente carregada sobre ecologia e corporações.",
+    "data_criacao": "1997",
+    "link": "https://square-enix-games.com/en_US/games/final-fantasy-vii",
+    "tags": [
+      "JRPG",
+      "RPG",
+      "Fantasia Científica",
+      "Narrativa"
+    ]
+  },
+  {
+    "nome": "Halo: Combat Evolved",
+    "descricao": "Um título de lançamento que impulsionou o console Xbox e revolucionou os controles de FPS em consoles, estabelecendo um universo de ficção científica duradouro.",
+    "data_criacao": "2001",
+    "link": "https://www.halowaypoint.com/en-us/games/halo-ce",
+    "tags": [
+      "FPS",
+      "Ficção Científica",
+      "Console Shooter",
+      "Ação"
+    ]
+  },
+  {
+    "nome": "World of Warcraft",
+    "descricao": "O MMORPG mais influente e duradouro, responsável por popularizar o gênero e criar um ecossistema social e econômico massivo.",
+    "data_criacao": "2004",
+    "link": "https://worldofwarcraft.blizzard.com/en-us/",
+    "tags": [
+      "MMORPG",
+      "Fantasia",
+      "Multijogador Massivo",
+      "RPG"
+    ]
+  },
+  {
+    "nome": "Portal 2",
+    "descricao": "Um jogo de quebra-cabeças em primeira pessoa aclamado pela crítica, conhecido por sua física inovadora, design de níveis inteligente e humor ácido.",
+    "data_criacao": "2011",
+    "link": "https://www.thinkwithportals.com/",
+    "tags": [
+      "Quebra-Cabeça",
+      "FPS",
+      "Física",
+      "Narrativa Cômica"
+    ]
+  },
+  {
+    "nome": "Mass Effect 2",
+    "descricao": "Um RPG de ação focado em escolhas morais, desenvolvimento de personagem e combate cinematográfico, frequentemente citado como um dos melhores jogos narrativos.",
+    "data_criacao": "2010",
+    "link": "https://www.ea.com/games/mass-effect/mass-effect-2",
+    "tags": [
+      "RPG de Ação",
+      "Ficção Científica",
+      "Escolhas Morais",
+      "Terceira Pessoa"
+    ]
+  },
+  {
+    "nome": "Dark Souls",
+    "descricao": "Conhecido por sua dificuldade implacável, design de mundo interconectado e narrativa ambiental sutil, cunhando o termo 'Souls-like'.",
+    "data_criacao": "2011",
+    "link": "https://www.bandainamcoent.com/games/dark-souls-remastered",
+    "tags": [
+      "Action RPG",
+      "Dificuldade Elevada",
+      "Fantasia Sombria",
+      "Combate de Precisão"
+    ]
+  },
+  {
+    "nome": "Street Fighter II",
+    "descricao": "O jogo que popularizou e definiu o gênero de jogos de luta moderno, introduzindo combos, personagens memoráveis e jogabilidade competitiva profunda.",
+    "data_criacao": "1991",
+    "link": "https://www.streetfighter.com/",
+    "tags": [
+      "Jogo de Luta",
+      "Arcade",
+      "Competitivo",
+      "2D"
+    ]
+  },
+  {
+    "nome": "Pokémon Red/Blue",
+    "descricao": "Os títulos originais que iniciaram o fenômeno global de coleta de monstros, RPGs baseados em turnos e troca entre jogadores.",
+    "data_criacao": "1996",
+    "link": "https://www.pokemon.com/us/pokemon-video-games/pokemon-red-and-pokemon-blue",
+    "tags": [
+      "JRPG",
+      "Coleta de Monstros",
+      "RPG de Turnos",
+      "Game Boy"
+    ]
+  },
+  {
+    "nome": "Call of Duty 4: Modern Warfare",
+    "descricao": "Revolucionou o gênero FPS com sua campanha cinematográfica e, principalmente, estabeleceu o padrão moderno para o multiplayer online baseado em progressão e prestígio.",
+    "data_criacao": "2007",
+    "link": "https://www.callofduty.com/modern-warfare",
+    "tags": [
+      "FPS",
+      "Militar",
+      "Multijogador Competitivo",
+      "Guerra Moderna"
+    ]
+  },
+  {
+    "nome": "Metal Gear Solid 3: Snake Eater",
+    "descricao": "Um mestre do gênero stealth e sobrevivência, aclamado por sua profunda narrativa de espionagem, reviravoltas na trama e mecânicas de camuflagem.",
+    "data_criacao": "2004",
+    "link": "https://www.konami.com/mg/mgs3/",
+    "tags": [
+      "Stealth",
+      "Ação-Aventura",
+      "Sobrevivência",
+      "Espionagem"
+    ]
+  },
+  {
+    "nome": "Resident Evil 2",
+    "descricao": "Um clássico do survival horror, aperfeiçoando a fórmula de tensão, quebra-cabeças e recursos limitados enquanto os jogadores exploram Raccoon City.",
+    "data_criacao": "1998",
+    "link": "https://www.residentevil.com/re2/",
+    "tags": [
+      "Survival Horror",
+      "Ação",
+      "Terror",
+      "Quebra-Cabeça"
+    ]
+  },
+  {
+    "nome": "Bioshock",
+    "descricao": "Um FPS com forte ênfase na narrativa e filosofia, ambientado na distopia submarina de Rapture, explorando temas de livre arbítrio e controle.",
+    "data_criacao": "2007",
+    "link": "https://bioshock.2k.com/",
+    "tags": [
+      "FPS",
+      "Narrativa Imersiva",
+      "Distopia",
+      "Ação"
+    ]
+  },
+  {
+    "nome": "Tetris",
+    "descricao": "Um dos jogos mais vendidos e influentes da história, conhecido por sua jogabilidade simples, viciante e perfeita de quebra-cabeças baseados em blocos.",
+    "data_criacao": "1984",
+    "link": "https://tetris.com/",
+    "tags": [
+      "Quebra-Cabeça",
+      "Arcade",
+      "Casual",
+      "Clássico"
+    ]
+  },
+  {
+    "nome": "Half-Life 2",
+    "descricao": "Um marco tecnológico no design de FPS, famoso por sua narrativa silenciosa, motor de física avançado (Source Engine) e design de nível inovador.",
+    "data_criacao": "2004",
+    "link": "https://www.valvesoftware.com/en/games/half-life-2",
+    "tags": [
+      "FPS",
+      "Ficção Científica",
+      "Aventura",
+      "Motor de Física"
+    ]
+  },
+  {
+    "nome": "Persona 5",
+    "descricao": "Um RPG de estética altamente estilizada, combinando simulação de vida escolar diária com combate de masmorras baseado em turnos.",
+    "data_criacao": "2016",
+    "link": "https://atlus.com/persona5/",
+    "tags": [
+      "JRPG",
+      "Simulação de Vida",
+      "RPG de Turnos",
+      "Estilizado"
+    ]
+  },
+  {
+    "nome": "Celeste",
+    "descricao": "Um jogo de plataforma 2D indie desafiador, elogiado por seu controle apertado e por abordar temas de ansiedade e autoaceitação em sua narrativa.",
+    "data_criacao": "2018",
+    "link": "https://www.celestegame.com/",
+    "tags": [
+      "Plataforma 2D",
+      "Indie",
+      "Pixel Art",
+      "Desafiador",
+      "Narrativa Pessoal"
+    ]
+  },
+  {
+    "nome": "Overwatch",
+    "descricao": "Um 'hero shooter' multiplayer que popularizou a combinação de classes e habilidades de heróis, focado em objetivos em vez de apenas abates.",
+    "data_criacao": "2016",
+    "link": "https://playoverwatch.com/en-us/",
+    "tags": [
+      "Hero Shooter",
+      "Multijogador",
+      "FPS",
+      "Competitivo"
+    ]
+  },
+  {
+    "nome": "Apex Legends",
+    "descricao": "Um battle royale baseado em esquadrões que inovou com um sistema de 'ping' e classes de personagens únicas, estabelecendo um ritmo de combate frenético.",
+    "data_criacao": "2019",
+    "link": "https://www.ea.com/games/apex-legends",
+    "tags": [
+      "Battle Royale",
+      "Hero Shooter",
+      "FPS",
+      "Free-to-Play"
+    ]
+  },
+  {
+    "nome": "StarCraft",
+    "descricao": "Um dos RTS (Estratégia em Tempo Real) mais importantes, que se tornou um fenômeno e-sports na Coreia do Sul e é famoso por seu equilíbrio racial complexo.",
+    "data_criacao": "1998",
+    "link": "https://starcraft.com/",
+    "tags": [
+      "RTS",
+      "Estratégia em Tempo Real",
+      "E-sports",
+      "Ficção Científica"
+    ]
+  },
+  {
+    "nome": "Civilization VI",
+    "descricao": "A mais recente iteração da série de estratégia 4X, onde os jogadores constroem um império do início da civilização até a era espacial.",
+    "data_criacao": "2016",
+    "link": "https://civilization.com/",
+    "tags": [
+      "Estratégia 4X",
+      "Estratégia de Turnos",
+      "História",
+      "Gerenciamento"
+    ]
+  },
+  {
+    "nome": "Sekiro: Shadows Die Twice",
+    "descricao": "Um jogo de ação focado em combate tático de postura e desvio, ambientado no Japão Sengoku, conhecido por sua alta curva de aprendizado.",
+    "data_criacao": "2019",
+    "link": "https://www.sekirothegame.com/us/",
+    "tags": [
+      "Ação",
+      "Combate Tático",
+      "Japão Feudal",
+      "FromSoftware"
+    ]
+  },
+  {
+    "nome": "Disco Elysium",
+    "descricao": "Um RPG isométrico revolucionário que se concentra inteiramente no diálogo, na investigação e nos sistemas de habilidade baseados em aspectos da personalidade do detetive.",
+    "data_criacao": "2019",
+    "link": "https://discoelysium.com/",
+    "tags": [
+      "RPG",
+      "Narrativa Pura",
+      "Investigação",
+      "Diálogo Profundo"
+    ]
+  },
+  {
+    "nome": "Rocket League",
+    "descricao": "Uma fusão única de futebol arcade e carros movidos a foguete, que se tornou um pilar dos e-sports casuais e competitivos devido à sua jogabilidade baseada em física.",
+    "data_criacao": "2015",
+    "link": "https://www.rocketleague.com/",
+    "tags": [
+      "Esportes",
+      "Arcade",
+      "Multijogador",
+      "Física"
+    ]
+  }
+]
