@@ -108,10 +108,13 @@ header {
 
 header h1 {
     font-size: 1.5rem; /* Tamanho da fonte */
+    font-family: "Special Gothic", sans-serif; /* Fonte com tema Sci-Fi */
+    color: var(--star-wars-yellow); /* Cor amarela para destaque */
+    letter-spacing: 2px; /* Espaçamento entre as letras */
+    text-shadow: 0 0 5px rgba(255, 232, 31, 0.5); /* Sombra para dar profundidade */
     margin: 0; /* Remove a margem padrão */
     font-weight: 500; /* Peso da fonte (médio) */
     white-space: nowrap; /* Impede a quebra de linha do texto */
-    font-family: "Roboto", sans-serif; /* Fonte com tema Sci-Fi */
 }
 
 div input {
@@ -242,6 +245,14 @@ article a:hover {
     padding: 15px 20px; /* Espaçamento interno */
     border-top: 1px solid #3c4043; /* Borda superior */
     font-size: 0.8rem; /* Tamanho da fonte */
+}
+
+.footer::after {
+    content: '© 2025 Henrique Hernandes. Todos os direitos reservados.'; /* Texto de direitos autorais */
+    display: block; /* Faz o elemento ocupar a largura toda */
+    text-align: center; /* Centraliza o texto */
+    margin-top: 15px; /* Espaçamento acima do texto */
+    font-size: 0.75rem; /* Tamanho da fonte do copyright */
 }
 
 .footer-location {
